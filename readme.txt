@@ -6,4 +6,4 @@ append .....
 
 creating a new branch is quick;
 
-and 1 = 1
+& 1 = 1
